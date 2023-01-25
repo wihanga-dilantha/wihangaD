@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wihangaD
-- 👀 I’m interested in shell script, php ,oop
+- 👀 I’m interested in shell script, php ,oop, react native, python 
 - 🌱 I’m currently learning SE
 
 <!---
