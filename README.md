@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wihangaD
-- 👀 I’m interested in react, react native, python
+- 👀 I’m interested in AI
 -  
 - 🌱 I’m BICT Undergraduate
 
